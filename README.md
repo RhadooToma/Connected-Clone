@@ -70,4 +70,4 @@ ISC - Fă ce vrei cu ea, dar pe riscul tău.
 
 ---
 
-Made with ☕ pe un Raspberry Pi 4
+Made with 🚬 pe un Raspberry Pi 4
