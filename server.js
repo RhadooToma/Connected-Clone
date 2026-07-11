@@ -8,6 +8,8 @@ const crypto = require('crypto');
 
 const db = new sqlite3.Database('./connected2me.db');
 
+app.use(express.static(__dirname));
+
 db.serialize(() => {
     db.run(`CREATE TABLE IF NOT EXISTS users (
         username TEXT PRIMARY KEY,
