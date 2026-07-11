@@ -1,5 +1,9 @@
 # 🔗 Connected Clone
 
+<p align="center">
+  <img src="logo.png" width="200">
+</p>
+
 O aplicație de chat anonim în timp real, inspirată de Connected2.me. Rulează direct în browser - pe telefon sau desktop - fără instalare complicată.
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
